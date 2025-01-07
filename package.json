@@ -1,7 +1,7 @@
 {
-  "name": "MIKU-MD",
+  "name": "DARKZONE-MD",
   "version": "1.0.0",
-  "description": "A WhatsApp Bot Created By Malvin",
+  "description": "A WhatsApp Bot Created By Mr Moiz",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name MIKU-MD",
