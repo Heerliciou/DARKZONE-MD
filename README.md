@@ -1,4 +1,4 @@
- **🧚‍♀️ 𝐐𝐔𝐄𝐄𝐍 𝐌𝐈𝐊𝐔 𝐌𝐃**
+ **🧚‍♀️ DARK ZONE 𝐌𝐃**
 
 
 </p> <p align="center">
@@ -6,11 +6,11 @@
 ---
 1. Fork The Repo
     <br>
-<a href="https://github.com/kingmalvn/MIKU-MD/fork"><img title="QUEEN-MIKU-MD" src="https://img.shields.io/badge/FORK QUEEN-MIKU-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/xonezone/DARKZONE-MD/fork"><img title="DARKZONE-MD" src="https://img.shields.io/badge/FORK QUEEN-MIKU-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
-![forks](https://img.shields.io/github/forks/kingmalvn/MIKU-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/xonezone/DARKZONE-MD?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/kingmalvn/MIKU-MD?style=social)
+![stars](https://img.shields.io/github/stars/xonezone/DARKZONE-MD?style=social)
 
 
 
@@ -21,7 +21,7 @@
 
   <p align="center">  
   <a href="https://files.catbox.moe/n5vvij.jpg">
-    <img alt="queen-miku" height="200" src="https://files.catbox.moe/n5vvij.jpg">
+    <img alt="DARK-ZONE" height="200" src="https://files.catbox.moe/n5vvij.jpg">
     
    Loading...
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
