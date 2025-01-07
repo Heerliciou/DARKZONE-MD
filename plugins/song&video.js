@@ -16,7 +16,7 @@ const search = await yts(q)
 const data = search.videos[0]
 const url = data.url
 
-let desc = `╭━❮◆ MIKU MD SONG DOWNLOADER ◆❯━╮
+let desc = `╭━❮◆ DARKZONE MD SONG DOWNLOADER ◆❯━╮
 
 ┃➤✰ 𝚃𝙸𝚃𝙻𝙴 : ${data.title}
 
@@ -30,7 +30,7 @@ let desc = `╭━❮◆ MIKU MD SONG DOWNLOADER ◆❯━╮
 ╰━━━━━━━━━━━━━━━⪼
 
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ
+> © POWDERED BY MR MOIZ 
 `
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
 
@@ -63,7 +63,7 @@ const search = await yts(q)
 const data = search.videos[0]
 const url = data.url
 
-let des = `╭━❮◆ MIKU MD VIDEO DOWNLOADER ◆❯━╮
+let des = `╭━❮◆ DARKZONE MD VIDEO DOWNLOADER ◆❯━╮
 
 ┃➤✰ 𝚃𝙸𝚃𝙻𝙴 : ${data.title}
 
@@ -77,7 +77,7 @@ let des = `╭━❮◆ MIKU MD VIDEO DOWNLOADER ◆❯━╮
 ╰━━━━━━━━━━━━━━━⪼
 
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ
+> ©POWERED BY MR MOIZ 
 `
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:des},{quoted:mek});
 
