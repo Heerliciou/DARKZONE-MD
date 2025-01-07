@@ -2,11 +2,11 @@
 
 
 </p> <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F20C39F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=QUEEN+MIKU+MD;MADE+BY+MALVIN+KING" alt="Typing SVG" 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F20C39F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=DARK+ZONE+MD;MADE+BY+MALVIN+KING" alt="Typing SVG" 
 ---
 1. Fork The Repo
     <br>
-<a href="https://github.com/xonezone/DARKZONE-MD/fork"><img title="DARKZONE-MD" src="https://img.shields.io/badge/FORK QUEEN-MIKU-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/xonezone/DARKZONE-MD/fork"><img title="DARKZONE-MD" src="https://img.shields.io/badge/FORK -DARKZONE-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 ![forks](https://img.shields.io/github/forks/xonezone/DARKZONE-MD?label=Forks&style=social)
 
