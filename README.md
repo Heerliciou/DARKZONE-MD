@@ -20,8 +20,8 @@
 <br>
 
   <p align="center">  
-  <a href="https://files.catbox.moe/n5vvij.jpg">
-    <img alt="DARK-ZONE" height="200" src="https://files.catbox.moe/n5vvij.jpg">
+  <a href="https://files.catbox.moe/cjvrrf.jpg">
+    <img alt="DARK-ZONE" height="200" src="https://files.catbox.moe/cjvrrf.jpg">
     
    Loading...
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -40,11 +40,11 @@
 ---
  **2.  Deploy To Replit**
 
-<a href="https://replit.com"><img title="QUEEN-MIKU Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
+<a href="https://replit.com"><img title="DARK-ZONE Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
 ---
 **3. Deploy to HEROKU ↓**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kingmalvn/MIKU-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xonezone/DARKZONE-MD)
 
  **4.  Deploy to RENDER ↓**
 
@@ -100,18 +100,11 @@ jobs:
 ## CREDITS 
 # `Owner`
 
- <a href="https://github.com/kingmalvn"><img src="https://github.com/kingmalvn.png" width="250" height="250" alt=" Malvin King"/></a>
+ <a href="https://github.com/xonezone"><img src="https://github.com/xonezone.png" width="250" height="250" alt=" Mr Moiz"/></a>
 
 ---
 ### CREATED BY:
-1. ### Malvin King 
+1. ### Mr Moiz
 
-## MY YT CHANNEL
-
-[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@malvintech2) 
- 
- ### WHATSAPP CHANNLE 👇
- <p align="left">
-<a href='https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z' target="_blank"><img alt='WhatsApp Channel' src='https://img.shields.io/badge/-WhatsApp Channel-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=120 height=39/p></a>
 
 
